@@ -12,6 +12,11 @@
 - [CSES - Tower of Hanoi](http://cses.fi/problemset/task/2165)
 - [Medium - Power Sum](https://blog.stackademic.com/day-4-recursion-power-sum-4ea486721041)
 
-#### Day 4 (Backtracking)
+### Day 4 (Backtracking)
 - [LeetCode - Permutations](https://leetcode.com/problems/permutations/)
 - [LeetCode - Permutations II](https://leetcode.com/problems/permutations-ii/)
+
+### Day 5 (Backtracking)
+- [LeetCode - Subset](https://leetcode.com/problems/subsets/description/)
+- [LeetCode - Subset II](https://leetcode.com/problems/subsets-ii/description/)
+
