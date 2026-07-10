@@ -20,3 +20,6 @@
 - [LeetCode - Subset](https://leetcode.com/problems/subsets/description/)
 - [LeetCode - Subset II](https://leetcode.com/problems/subsets-ii/description/)
 
+### Day 6 (Backtracking)
+- [LeetCode - Combinations](https://leetcode.com/problems/combinations/description/)
+- [LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/description/)
