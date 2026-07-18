@@ -1,11 +1,11 @@
 
 ### Day 1 (Array)
-- [LeetCode - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [LeetCode - Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+- [LeetCode - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+- [LeetCode - Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
 
 ### Day 2 (Recursion)
-- [LeetCode - K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
-- [LeetCode - Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+- [LeetCode - K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)
+- [LeetCode - Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
 
 ### Day 3 (Recursion)
 - [GeeksforGeeks - Tower of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
@@ -13,13 +13,17 @@
 - [Medium - Power Sum](https://blog.stackademic.com/day-4-recursion-power-sum-4ea486721041)
 
 ### Day 4 (Backtracking)
-- [LeetCode - Permutations](https://leetcode.com/problems/permutations/)
-- [LeetCode - Permutations II](https://leetcode.com/problems/permutations-ii/)
+- [LeetCode - Permutations](https://leetcode.com/problems/permutations/description/)
+- [LeetCode - Permutations II](https://leetcode.com/problems/permutations-ii/description/)
 
 ### Day 5 (Backtracking)
-- [LeetCode - Subset](https://leetcode.com/problems/subsets/description/)
-- [LeetCode - Subset II](https://leetcode.com/problems/subsets-ii/description/)
+- [LeetCode - Subset](https://leetcode.com/problems/subsets/description/description/)
+- [LeetCode - Subset II](https://leetcode.com/problems/subsets-ii/description/description/)
 
 ### Day 6 (Backtracking)
 - [LeetCode - Combinations](https://leetcode.com/problems/combinations/description/)
 - [LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/description/)
+
+### Day 7 (Backtracking)
+- [LeetCode - Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)
+- [LeetCode - Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)
